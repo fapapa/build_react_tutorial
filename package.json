@@ -5,5 +5,10 @@
   "repository": "https://github.com/fapapa/build_react_tutorial",
   "author": "Fabio Papa <fabtheman@gmail.com>",
   "license": "MIT",
-  "private": false
+  "private": false,
+  "dependencies": {
+    "jsx": "^0.9.89",
+    "react": "^16.12.0",
+    "react-dom": "^16.12.0"
+  }
 }
