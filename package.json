@@ -1,0 +1,9 @@
+{
+  "name": "build_react_tutorial",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/fapapa/build_react_tutorial",
+  "author": "Fabio Papa <fabtheman@gmail.com>",
+  "license": "MIT",
+  "private": false
+}
